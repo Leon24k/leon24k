@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Rivo Rumadi</h1>
 <h3 align="center">A Data Enthusiast and also a Web Developer.</h3>
 
