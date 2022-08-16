@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rivo Rumadi</h1>
 <h3 align="center">A Data Enthusiast and also a Web Developer</h3>
-<image align="right" alt="code" width="400" src="[https://dribbble.com/shots/3587000-Coding/attachments/9907911?mode=media](https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif)">
+<image align="right" alt="code" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leon24k&label=Profile%20views&color=0e75b6&style=flat" alt="leon24k" /> </p>
 
