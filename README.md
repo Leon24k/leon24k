@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rivo Rumadi</h1>
 <h3 align="center">A Data Enthusiast and also a Web Developer.</h3>
+<img align="right" alt="cute" width="400" src="https://tenor.com/view/cute-fingers-fixed-cat-cut-fingers-shy-gif-24961649"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leon24k&label=Profile%20views&color=0e75b6&style=flat" alt="leon24k" /> </p>
 
