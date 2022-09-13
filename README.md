@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/blueonnn" target="blank"><img src="https://img.shields.io/twitter/follow/blueonnn?logo=twitter&style=for-the-badge" alt="blueonnn" /></a> </p>
 
-- currently learning **Machine Learning And Data Science 🤖**
+- Currently learning **Machine Learning And Data Science 🤖**
 
 - About Me [https://rivo-rumadi.netlify.app/](https://rivo-rumadi.netlify.app/) 🧑🏻
 
