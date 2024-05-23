@@ -11,7 +11,7 @@
 
 - About Me [https://rivo-rumadi.netlify.app/](https://rivo-rumadi.netlify.app/) 🧑🏻
 
-- How to reach me **rivojr1@gmail.com 📧** 
+- How to reach me **rumadirivo@gmail.com 📧** 
 
 - **I Like Coffee ☕**
 
