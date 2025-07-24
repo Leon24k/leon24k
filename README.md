@@ -194,7 +194,7 @@ while (learning) {
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=2000&pause=500&color=FF6B35&center=true&vCenter=true&width=600&lines=Let's+build+the+future+together!;Open+to+opportunities+and+collaborations;Always+excited+to+discuss+new+ideas" alt="Collaboration" />
 
 <!-- Visitor Counter with Style -->
-<img src="https://komarev.com/ghpvc/?username=Leon24k&style=for-the-badge&color=8b5cf6" alt="Visitor Count" />
+<img src="https://komarev.com/ghpvc/?username=Leon24k&label=Digital+Visitors&color=00d9ff&style=for-the-badge" alt="Visitor Count" />
 
 </div>
 
