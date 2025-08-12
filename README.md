@@ -1,7 +1,7 @@
 <!-- Dynamic Typing Animation Header -->
 
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;Software+Engineer;Rivo+Rumadi)](https://git.io/typing-svg)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;Software+Engineer;Rivo+Rumadi" alt="Typing SVG" />
 </div>
 
 
