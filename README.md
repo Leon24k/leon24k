@@ -27,7 +27,7 @@
 
 ---
 
-## 🚀 Neural Network Status: ACTIVE
+## 🚀 About Me
 
 ```python
 class Leon24k:
@@ -152,7 +152,7 @@ const racingMindset: F1Philosophy = {
 </div>
 ---
 
-## 🌐 Digital Presence & Networking
+## 🌐 Let's Connect
 
 <div align="center">
 
