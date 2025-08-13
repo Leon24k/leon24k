@@ -102,7 +102,7 @@ class Leon24k:
 
 ---
 
-## 🏎️ Formula 1 Mindset in Code
+## 🏎️ Formula 1 Enthusiast
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2000&pause=500&color=FF6B35&center=true&vCenter=true&width=800&lines=Precision+Engineering+%7C+Split-Second+Decisions+%7C+Continuous+Optimization;Every+Millisecond+Counts+in+Both+Racing+and+Coding" alt="F1 Philosophy" />
