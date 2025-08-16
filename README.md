@@ -209,7 +209,7 @@ while (learning) {
 <!-- 
 🏎️ "That's what I do. I drink and I know things... about code." - Tyrion Lannister (probably)
 If you found this, you're as detail-oriented as a Formula 1 engineer! 
-Reach out with "Easter Egg" in your message for a special response! 
+Reach out with "Easter Egg" in your message for a special response! ehe
 -->
 
 ---
