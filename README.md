@@ -80,7 +80,7 @@ class Leon24k:
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EE4C2C?style=for-the-badge&logo=codeigniter&logoColor=white)
 
 ### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,gcp,kafka&theme=dark" />
+<img src="https://skillicons.dev/icons?i=gcp,kafka&theme=dark" />
 
 ### 🗄️ Databases & Tools
 <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
