@@ -205,12 +205,6 @@ while (learning) {
 <!-- Animated Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" />
 
-<!-- Hidden Easter Egg -->
-<!-- 
-🏎️ "That's what I do. I drink and I know things... about code." - Tyrion Lannister (probably)
-If you found this, you're as detail-oriented as a Formula 1 engineer! 
-Reach out with "Easter Egg" in your message for a special response! ehe
--->
 
 ---
 
