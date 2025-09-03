@@ -184,7 +184,6 @@ const coreValues = {
 while (learning) {
   code();
   innovate();
-  inspire();
 }
 ```
 
