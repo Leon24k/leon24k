@@ -211,6 +211,6 @@ while (learning) {
 
 **⭐ If my code sparks your interest, star my repositories and let's connect! ⭐**
 
-*"In racing and in coding, it's not about being perfect - it's about being better than yesterday."*
+*"it's not about being perfect - it's about being better than yesterday."*
 
 </div>
