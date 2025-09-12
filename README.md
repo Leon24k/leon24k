@@ -40,7 +40,7 @@ class Leon24k:
     def current_focus(self):
         return {
             "🧠 Deep Learning": ["Transformers", "Computer Vision", "NLP"],
-            "☁️ Cloud Architecture": ["GCP", "Kubernetes", "Microservices"],
+            "☁️ Cloud Architecture": ["GCP", "Kubernetes", "Microservices", "Monolithic"],
             "🔧 DevOps": ["CI/CD", "GitOps"],
             "🌐 Software Engineer": ["React", "Node.js", "Python", "TypeScript"],
             "🏎️ Performance": ["System Design", "Optimization", "Scalability"]
