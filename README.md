@@ -35,7 +35,7 @@ class Leon24k:
         self.name = "Rivo Rumadi"
         self.role = "ML Engineer & Software Engineer"
         self.location = "Jakarta, ID"
-        self.education = "Undergraduate CS Student"
+        self.education = "Undergraduate Computer Science Student"
         
     def current_focus(self):
         return {
