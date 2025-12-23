@@ -192,7 +192,7 @@ while (learning) {
 <!-- Advanced Footer with Animations -->
 <div align="center">
   
-### 🚀 Ready to Collaborate?
+### 🚀 Let's Collaborate
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=2000&pause=500&color=FF6B35&center=true&vCenter=true&width=600&lines=Let's+build+the+future+together!;Open+to+opportunities+and+collaborations;Always+excited+to+discuss+new+ideas" alt="Collaboration" />
 
