@@ -47,7 +47,7 @@ class Leon24k:
         }
     
     def life_philosophy(self):
-        return "Code like a poet, architect like an engineer, efficient like an F1 driver"
+        return "Code like a poettic, architect like an engineer, efficient like an F1 driver"
 ```
 
 <!-- Animated Tech Stack -->
