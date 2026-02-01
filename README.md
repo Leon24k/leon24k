@@ -26,7 +26,7 @@ class Developer:
     current_quest = "Computer Science Undergraduate"
     
     skills = {
-        "ml":       ["Deep Learning", "Computer Vision", "NLP", "Transformers"],
+        "ml":       ["Deep Learning", "Computer Vision", "NLP"],
         "cloud":    ["GCP", "Microservices", "CI/CD", "GitOps"],
         "web":      ["React", "Next.js", "Node.js"],
         "focus":    ["System Design", "Optimization", "Scalability"]
