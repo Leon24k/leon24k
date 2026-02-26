@@ -113,7 +113,7 @@ class Developer:
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-voo.my.id-FF6B35?style=for-the-badge)](https://voo.my.id)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-rumadirivo-0A66C2?style=for-the-badge)](https://linkedin.com/in/rumadirivo)
 [![GitHub](https://img.shields.io/badge/⚡_GitHub-Leon24k-ffffff?style=for-the-badge)](https://github.com/Leon24k)
-[![Email](https://img.shields.io/badge/📧_Email-contact@voo.my.id-EA4335?style=for-the-badge)](mailto:contact@voo.my.id)
+[![Email](https://img.shields.io/badge/📧_Email-contact@voo.my.id-EA4335?style=for-the-badge)](mailto:rivojr.dev@gmail.com)
 
 </div>
 
