@@ -37,8 +37,8 @@ class Developer:
 
 <div align="center">
 
-[![WhoIsTheImpostor](https://github-readme-stats.vercel.app/api/pin/?username=Leon24k&repo=WhoIsTheImpostor&theme=github_dark&hide_border=true)](https://github.com/Leon24k/WhoIsTheImpostor)
-[![Hand-Gesture](https://github-readme-stats.vercel.app/api/pin/?username=Leon24k&repo=Hand-Gesture&theme=github_dark&hide_border=true)](https://github.com/Leon24k/Hand-Gesture)
+[![WhoIsTheImpostor](https://git-stats-fawn.vercel.app/api/pin/?username=Leon24k&repo=WhoIsTheImpostor&theme=github_dark&hide_border=true)](https://github.com/Leon24k/WhoIsTheImpostor)
+[![Hand-Gesture](https://git-stats-fawn.vercel.app/api/pin/?username=Leon24k&repo=Hand-Gesture&theme=github_dark&hide_border=true)](https://github.com/Leon24k/Hand-Gesture)
 
 </div>
 
@@ -90,8 +90,8 @@ class Developer:
 ## 📊 Battle Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leon24k&theme=github_dark&show_icons=true&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leon24k&layout=compact&theme=github_dark&hide_border=true&langs_count=6" width="48%" />
+  <img src="https://git-stats-fawn.vercel.app/api?username=Leon24k&theme=github_dark&show_icons=true&hide_border=true&count_private=true" width="48%" />
+  <img src="https://git-stats-fawn.vercel.app/api/top-langs/?username=Leon24k&layout=compact&theme=github_dark&hide_border=true&langs_count=6" width="48%" />
 </div>
 
 <!-- 3D Contribution Graph -->
@@ -113,7 +113,7 @@ class Developer:
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-voo.my.id-FF6B35?style=for-the-badge)](https://voo.my.id)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-rumadirivo-0A66C2?style=for-the-badge)](https://linkedin.com/in/rumadirivo)
 [![GitHub](https://img.shields.io/badge/⚡_GitHub-Leon24k-ffffff?style=for-the-badge)](https://github.com/Leon24k)
-[![Email](https://img.shields.io/badge/📧_Email-rivojr.dev@gmail.com-EA4335?style=for-the-badge)](mailto:rivojr.dev@gmail.com)
+[![Email](https://img.shields.io/badge/📧_Email-contact@voo.my.id-EA4335?style=for-the-badge)](mailto:contact@voo.my.id)
 
 </div>
 
