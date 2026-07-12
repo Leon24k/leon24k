@@ -124,7 +124,7 @@ class Developer:
   
   ![Visitors](https://komarev.com/ghpvc/?username=Leon24k&style=for-the-badge&color=8b5cf6)
   
-  *Currently grinding XP. Progress saved automatically.*
+  *Currently grinding XP with project. Progress saved automatically.*
 
 </div>
 
