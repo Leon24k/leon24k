@@ -54,7 +54,7 @@ class Developer:
 
 - [ ] Complete CS degree
 - [ ] Staying Alive😌
-- [ ] Keep Learning ML
+- [ ] Keep Learning Machine Learning
 
 ---
 
