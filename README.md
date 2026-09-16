@@ -53,8 +53,7 @@ class Developer:
 ## 🎯 2026 Goals
 
 - [✅] Complete CS degree
-- [ ] Staying Alive😌
-- [ ] Keep Learning Machine Learning
+- [✅] Keep Learning AI
 
 ---
 
