@@ -122,7 +122,7 @@ class Developer:
 
 <div align="center">
   
-  ![Visitors](https://komarev.com/ghpvc/?username=Leon24k&label=Profile%20views&style=for-the-badge&color=8b5cf6)
+  ![Visitors](https://leon24k-ghpvc.ghpvc-proxy.workers.dev/?label=Profile%20views&style=for-the-badge&color=8b5cf6)
   
   *Currently grinding XP with project. Progress saved automatically.*
 
