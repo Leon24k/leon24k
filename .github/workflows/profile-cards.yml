@@ -1,0 +1,80 @@
+name: generate profile cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      # optional PAT (repo + read:user) for private stats; falls back to public-only GITHUB_TOKEN
+      TOKEN: ${{ secrets.PROFILE_STATS_TOKEN || secrets.GITHUB_TOKEN }}
+    steps:
+      - name: stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=Leon24k&theme=github_dark&show_icons=true&hide_border=true&count_private=true
+          path: dist/stats.svg
+          token: ${{ env.TOKEN }}
+
+      - name: top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=Leon24k&layout=compact&theme=github_dark&hide_border=true&langs_count=6
+          path: dist/top-langs.svg
+          token: ${{ env.TOKEN }}
+
+      - name: pin WhoIsTheImpostor
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=Leon24k&repo=WhoIsTheImpostor&theme=github_dark&hide_border=true
+          path: dist/pin-WhoIsTheImpostor.svg
+          token: ${{ env.TOKEN }}
+
+      - name: pin Hand-Gesture
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=Leon24k&repo=Hand-Gesture&theme=github_dark&hide_border=true
+          path: dist/pin-Hand-Gesture.svg
+          token: ${{ env.TOKEN }}
+
+      - name: trophy card
+        uses: soulteary/github-profile-trophy-action@v1.3.0
+        with:
+          options: username=Leon24k&theme=transparent&no-frame=true&no-bg=true&margin-w=10&column=6
+          path: dist/trophy.svg
+          token: ${{ env.TOKEN }}
+
+      # public vercel instance is disabled, so run our fork locally and save the svg
+      - name: checkout activity graph
+        uses: actions/checkout@v4
+        with:
+          repository: Leon24k/github-readme-activity-graph
+          path: activity-graph
+
+      - name: activity graph
+        working-directory: activity-graph
+        run: |
+          npm ci --no-audit --no-fund
+          npm run build
+          node dist/main.js &
+          sleep 5
+          curl -fsS "http://localhost:5100/graph?username=Leon24k&theme=github-compact&hide_border=true" -o ../dist/activity-graph.svg
+
+      - name: push cards to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output-cards
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
