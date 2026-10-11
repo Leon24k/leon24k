@@ -37,8 +37,8 @@ class Developer:
 
 <div align="center">
 
-[![WhoIsTheImpostor](https://git-stats-fawn.vercel.app/api/pin/?username=Leon24k&repo=WhoIsTheImpostor&theme=github_dark&hide_border=true)](https://github.com/Leon24k/WhoIsTheImpostor)
-[![Hand-Gesture](https://git-stats-fawn.vercel.app/api/pin/?username=Leon24k&repo=Hand-Gesture&theme=github_dark&hide_border=true)](https://github.com/Leon24k/Hand-Gesture)
+[![WhoIsTheImpostor](https://raw.githubusercontent.com/Leon24k/leon24k/refs/heads/output-cards/pin-WhoIsTheImpostor.svg)](https://github.com/Leon24k/WhoIsTheImpostor)
+[![Hand-Gesture](https://raw.githubusercontent.com/Leon24k/leon24k/refs/heads/output-cards/pin-Hand-Gesture.svg)](https://github.com/Leon24k/Hand-Gesture)
 
 </div>
 
@@ -91,8 +91,8 @@ class Developer:
 ## 📊 Battle Stats
 
 <div align="center">
-  <img src="https://git-stats-fawn.vercel.app/api?username=Leon24k&theme=github_dark&show_icons=true&hide_border=true&count_private=true" width="48%" />
-  <img src="https://git-stats-fawn.vercel.app/api/top-langs/?username=Leon24k&layout=compact&theme=github_dark&hide_border=true&langs_count=6" width="48%" />
+  <img src="https://raw.githubusercontent.com/Leon24k/leon24k/refs/heads/output-cards/stats.svg" width="48%" />
+  <img src="https://raw.githubusercontent.com/Leon24k/leon24k/refs/heads/output-cards/top-langs.svg" width="48%" />
 </div>
 
 <!-- 3D Contribution Graph -->
@@ -102,7 +102,7 @@ class Developer:
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leon24k&theme=github-compact&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/Leon24k/leon24k/refs/heads/output-cards/activity-graph.svg" />
 </div>
 
 ---
@@ -122,7 +122,7 @@ class Developer:
 
 <div align="center">
   
-  ![Visitors](https://komarev.com/ghpvc/?username=Leon24k&style=for-the-badge&color=8b5cf6)
+  ![Visitors](https://komarev.com/ghpvc/?username=Leon24k&label=Profile%20views&style=for-the-badge&color=8b5cf6)
   
   *Currently grinding XP with project. Progress saved automatically.*
 
@@ -134,7 +134,7 @@ class Developer:
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Leon24k&theme=transparent&no-frame=true&no-bg=true&margin-w=10&column=6" />
+  <img src="https://raw.githubusercontent.com/Leon24k/leon24k/refs/heads/output-cards/trophy.svg" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=100&section=footer" />
