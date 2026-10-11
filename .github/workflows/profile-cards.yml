@@ -73,7 +73,7 @@ jobs:
       - name: activity graph
         working-directory: activity-graph
         run: |
-          npm ci --no-audit --no-fund
+          npm install --omit=dev --no-audit --no-fund
           npm run build
           node dist/main.js &
           sleep 5
