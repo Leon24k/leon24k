@@ -48,12 +48,20 @@ jobs:
           path: dist/pin-Hand-Gesture.svg
           token: ${{ env.TOKEN }}
 
+      # needs PROFILE_STATS_TOKEN; GITHUB_TOKEN gets "Resource not accessible by integration"
       - name: trophy card
+        id: trophy
+        continue-on-error: true
         uses: soulteary/github-profile-trophy-action@v1.3.0
         with:
           options: username=Leon24k&theme=transparent&no-frame=true&no-bg=true&margin-w=10&column=6
           path: dist/trophy.svg
           token: ${{ env.TOKEN }}
+
+      # ponytail: third-party mirror listed in ryo-ma/github-profile-trophy README, drop once PAT secret exists
+      - name: trophy card (mirror fallback)
+        if: steps.trophy.outcome == 'failure'
+        run: curl -fsS "https://github-profile-trophy-orcin-eta.vercel.app/?username=Leon24k&theme=transparent&no-frame=true&no-bg=true&margin-w=10&column=6" -o dist/trophy.svg
 
       # public vercel instance is disabled, so run our fork locally and save the svg
       - name: checkout activity graph
