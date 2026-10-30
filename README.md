@@ -54,7 +54,6 @@ class Developer:
 
 - [✅] Complete CS degree
 - [✅] Keep Learning AI
-- [] Learn DSA
 - [] Learn Rust
 ---
 
